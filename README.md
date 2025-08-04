@@ -1,2 +1,2 @@
-# PLP-Project-Portfolio
-This is my first project on Github.
+# About my first project on Github
+a PLP project on portfolio.
